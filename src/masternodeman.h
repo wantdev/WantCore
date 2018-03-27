@@ -30,7 +30,7 @@ private:
 
     static const int LAST_PAID_SCAN_BLOCKS      = 100;
 
-    static const int MIN_POSE_PROTO_VERSION     = 70203;
+    static const int MIN_POSE_PROTO_VERSION     = 70000;
     static const int MAX_POSE_CONNECTIONS       = 10;
     static const int MAX_POSE_RANK              = 10;
     static const int MAX_POSE_BLOCKS            = 10;
@@ -101,7 +101,7 @@ public:
             READWRITE(strVersion);
         }
         else {
-            strVersion = SERIALIZATION_VERSION_STRING; 
+            strVersion = SERIALIZATION_VERSION_STRING;
             READWRITE(strVersion);
         }
 
