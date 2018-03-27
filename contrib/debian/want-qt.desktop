@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Want
+Comment=Want P2P Cryptocurrency
+Comment[fr]=Want, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Want, eşten eşe kriptografik sanal para birimi
+Exec=want-qt %u
+Terminal=false
+Type=Application
+Icon=want128
+MimeType=x-scheme-handler/want;
+Categories=Office;Finance;

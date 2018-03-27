@@ -1,0 +1,6 @@
+usr/local/bin/want-qt usr/bin
+share/pixmaps/want32.xpm usr/share/pixmaps
+share/pixmaps/want16.xpm usr/share/pixmaps
+share/pixmaps/want128.png usr/share/pixmaps
+debian/want-qt.desktop usr/share/applications
+debian/want-qt.protocol usr/share/kde4/services/
