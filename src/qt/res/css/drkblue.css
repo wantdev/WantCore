@@ -495,7 +495,7 @@ padding-right:10px;
 }
 
 QDialog#OpenURIDialog QPushButton#selectFileButton:hover {
-background-color:#ffc965;
+background-color:#e54a84;
 color:#333;
 }
 
@@ -583,7 +583,7 @@ padding-right:10px;
 }
 
 QWidget#AddressBookPage QPushButton#newAddress:hover {
-background-color:#ffc965;
+background-color:#e54a84;
 color:#333;
 }
 
@@ -600,7 +600,7 @@ padding-right:10px;
 }
 
 QWidget#AddressBookPage QPushButton#copyAddress:hover {
-background-color:#ffc965;
+background-color:#e54a84;
 color:#333;
 }
 
@@ -617,7 +617,7 @@ padding-right:10px;
 }
 
 QWidget#AddressBookPage QPushButton#deleteAddress:hover {
-background-color:#ffc965;
+background-color:#e54a84;
 color:#333;
 }
 
@@ -737,7 +737,7 @@ border-image: url(':/images/crownium/drkblue_walletFrame_bg') 0 0 0 0 stretch st
 }
 
 QDialog#RPCConsole QWidget#tab_nettraffic  QSlider#sldGraphRange{ /* Network slider background */
-background-color: #ffc965;
+background-color: #e54a84;
 }
 
 
@@ -830,7 +830,7 @@ margin-left:16px;
 QWidget .QFrame#frame .QLabel#labelBalanceText { /* Available Balance Label */
 qproperty-alignment: 'AlignVCenter | AlignRight';
 min-width:160px;
-background-color: #ffc965;
+background-color: #e54a84;
 color:#ffffff;
 margin-right:5px;
 padding-right:5px;
@@ -933,7 +933,7 @@ min-width: 421px;
 QWidget .QFrame#framePrivateSend .QLabel#labelPrivateSendHeader { /* PrivateSend Header */
 qproperty-alignment: 'AlignVCenter | AlignRight';
 min-width:160px;
-background-color: #ffc965;
+background-color: #e54a84;
 /* border:3px outset #888888; */
 color:#ffffff;
 margin-right:5px;
@@ -990,7 +990,7 @@ color:#333333;
 }
 
 QWidget .QFrame#framePrivateSend #privateSendFormLayoutWidget .QProgressBar#privateSendProgress::chunk {
-background-color: #ffc965;
+background-color: #e54a84;
 width:1px;
 }
 
@@ -1077,7 +1077,7 @@ padding:0px;
 }
 
 QWidget .QFrame#framePrivateSend .QPushButton#privateSendAuto:hover {
-background-color: #ffc965;
+background-color: #e54a84;
 color:#000000;
 }
 
@@ -1095,7 +1095,7 @@ padding:0px;
 }
 
 QWidget .QFrame#framePrivateSend .QPushButton#privateSendReset:hover {
-background-color: #ffc965;
+background-color: #e54a84;
 color:#000000;
 }
 
@@ -1113,7 +1113,7 @@ padding:0px;
 }
 
 QWidget .QFrame#framePrivateSend .QPushButton#privateSendInfo:hover {
-background-color: #ffc965;
+background-color: #e54a84;
 color:#000000;
 }
 
@@ -1269,7 +1269,7 @@ QDialog#SendCoinsDialog .QPushButton#addButton:pressed {
 QDialog#SendCoinsDialog .QCheckBox#checkUsePrivateSend { /* PrivateSend Checkbox */
 color:#555555;
 font-weight:bold;
-background: #ffc965;
+background: #e54a84;
 border-radius:5px;
 padding-top:20px;
 padding-bottom:18px;
@@ -1278,7 +1278,7 @@ padding-bottom:18px;
 QDialog#SendCoinsDialog .QCheckBox#checkUseInstantSend { /* InstantSend Checkbox */
 color:#555555;
 font-weight:bold;
-background: #ffc965;
+background: #e54a84;
 border-radius:5px;
 padding-top:20px;
 padding-bottom:18px;
@@ -1543,7 +1543,7 @@ padding-right:10px;
 }
 
 QWidget#ReceiveCoinsDialog .QFrame#frame2 QPushButton#clearButton:hover {
-background-color:#ffc965;
+background-color:#e54a84;
 color:#333;
 }
 
@@ -1560,7 +1560,7 @@ padding-right:10px;
 }
 
 QWidget#ReceiveCoinsDialog .QFrame#frame QPushButton#showRequestButton:hover {
-background-color:#ffc965;
+background-color:#e54a84;
 color:#333;
 }
 
@@ -1577,7 +1577,7 @@ padding-right:10px;
 }
 
 QWidget#ReceiveCoinsDialog .QFrame#frame QPushButton#removeRequestButton:hover {
-background-color:#ffc965;
+background-color:#e54a84;
 color:#333;
 }
 
