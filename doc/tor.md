@@ -53,7 +53,7 @@ config file):
 
 	HiddenServiceDir /var/lib/tor/wantcore-service/
 	HiddenServicePort 9992 127.0.0.1:9992
-	HiddenServicePort 10211 127.0.0.1:10211
+	HiddenServicePort 7676 127.0.0.1:7676
 
 The directory can be different of course, but (both) port numbers should be equal to
 your wantd's P2P listen port (9992 by default).
