@@ -1,2 +1,2 @@
-Want Core staging tree 1.1.1
+Want Core v. 1.1.1.2
 ===============================
